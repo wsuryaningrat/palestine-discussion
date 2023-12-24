@@ -1,0 +1,4 @@
+PROJECT="api.upload_rds"
+VERSION="1.0.4"
+DOCKERNIMAGES="10.2.200.51:5000/idecision-"$PROJECT":v$VERSION"
+CBUILD="10.2.200.51:5000/idecision-"$PROJECT""
